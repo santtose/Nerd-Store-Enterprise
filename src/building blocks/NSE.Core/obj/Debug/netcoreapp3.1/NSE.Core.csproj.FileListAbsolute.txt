@@ -1,0 +1,8 @@
+C:\Diogo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.deps.json
+C:\Diogo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Diogo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Diogo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csprojAssemblyReference.cache
+C:\Diogo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfoInputs.cache
+C:\Diogo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfo.cs
+C:\Diogo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Diogo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.pdb
