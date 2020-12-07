@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace NSE.WebApp.MVC.Controllers
 {
-    public class IdentidadeController : Controller
+    public class IdentidadeController : MainController
     {
         private readonly IAutenticacaoService _autentcacaoService;
 
@@ -32,7 +32,7 @@ namespace NSE.WebApp.MVC.Controllers
 
             var resposta = await _autentcacaoService.Registro(usuarioRegistro);
 
-            if (false) return View(usuarioRegistro);
+            if (ResponsePossuiErros(resposta.ResponseResult)) return View(usuarioRegistro);
 
             return RedirectToAction("Index", "Home");
 
@@ -62,7 +62,7 @@ namespace NSE.WebApp.MVC.Controllers
 
             var resposta = await _autentcacaoService.Login(usuarioLogin);
 
-            if (false) return View(usuarioLogin);
+            if (ResponsePossuiErros(resposta.ResponseResult)) return View(usuarioLogin);
 
             return RedirectToAction("Index", "Home");
 
